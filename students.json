@@ -1,0 +1,17 @@
+[
+    {
+        "first_name": "fsdjfsjif",
+        "last_name": "sdfjovfdjg",
+        "address": "sfddf3",
+        "id_student": 68668,
+        "pesel_number": "98052366227",
+        "gender": "Man",
+        "field_of_study": "IT",
+        "grades": [
+            3.0
+        ],
+        "courses": [
+            "Software Engineering"
+        ]
+    }
+]
