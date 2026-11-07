@@ -41,9 +41,9 @@ class FileManager:
                     item["id_student"],
                     item["pesel_number"],
                     item["gender"],
-                    item.get["field_of_study", "Not Specified"],
-                    item.get["grades", []],
-                    item.get["courses", []]
+                    item.get("field_of_study", "Not Specified"),
+                    item.get("grades", []),
+                    item.get("courses", [])
 
                 )
 
