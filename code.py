@@ -51,4 +51,4 @@ while True:
         print("Pls DONT LEAVe... Senpai.. mrrr")
         break
     else:
-        print("Invalid option!! Please choose from 1 to 6")
+        print("Invalid option!! Please choose from 1 to 10")
