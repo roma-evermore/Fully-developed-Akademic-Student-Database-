@@ -43,11 +43,11 @@ while True:
         database.RemoveStudentFromTheDataBase()
     elif choice == '8':
         updater.UpdateStudent()
-        filemanager.saveToFile(database.students)
+        filemanager.saveToFIle(database.students)
     elif choice == '9':
-        filemanager.saveToFile(database.students)
+        filemanager.saveToFIle(database.students)
     elif choice == '10':
-        filemanager.saveToFile(database.students)
+        filemanager.saveToFIle(database.students)
         print("Pls DONT LEAVe... Senpai.. mrrr")
         break
     else:
